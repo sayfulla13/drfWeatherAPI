@@ -29,7 +29,7 @@
 
 
 Регистрация :
-POST http://127.0.0.1:8000/register/ 
+POST http://127.0.0.1:8000/register/
 Body :
 1)для юзера
 {
