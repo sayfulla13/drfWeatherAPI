@@ -5,7 +5,7 @@
 ✅ Автоматическое обновление погоды, если данные старше 10 минут  
 
 Клон репозитория и установка зависимостей :
-git clone https://github.com/drfWeatherAPI/weather-api.git
+https://github.com/sayfulla13/drfWeatherAPI.git
 cd drfWeatherAPI
 pip install -r requirements.txt
 
