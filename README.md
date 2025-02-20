@@ -23,7 +23,7 @@
 
 
 
-6)python manage.py migrate
+6)python manage.py runserver
 
 
 
