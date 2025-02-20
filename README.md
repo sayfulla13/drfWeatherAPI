@@ -5,11 +5,28 @@
 ✅ Автоматическое обновление погоды, если данные старше 10 минут  
 
 Клон репозитория и установка зависимостей :
-git clone https://github.com/sayfulla13/drfWeatherAPI.git
+1)git clone https://github.com/sayfulla13/drfWeatherAPI.git
 
 
-cd drfWeatherAPI
-pip install -r requirements.txt
+2)cd drfWeatherAPI
+
+
+
+3)pip install django djangorestframework
+
+
+4)python manage.py makemigrations
+
+
+
+5)python manage.py migrate
+
+
+
+6)python manage.py migrate
+
+
+
 
 Регистрация :
 POST http://127.0.0.1:8000/register/ 
