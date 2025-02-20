@@ -12,7 +12,7 @@
 
 
 
-3)pip install django djangorestframework
+3)pip install django djangorestframework requests
 
 
 4)python manage.py makemigrations
